@@ -23,5 +23,6 @@ public class Main {
 		p = Planet.MERCURY;
 		System.out.println(p.getmass()+"             "+p.getradius());
 		System.out.println("changed to trigger build in cloudbees");
+		System.out.println("triggering the cloudbees to build again");
 	}
 }
